@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791728255925",
+    "project_id": "trackdemo2-c230b",
+    "storage_bucket": "trackdemo2-c230b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791728255925:android:b211437356b57667109ffc",
+        "android_client_info": {
+          "package_name": "com.example.trackdemo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfQloDU5wmXw3GRAJgyXX0nV0aet55dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
