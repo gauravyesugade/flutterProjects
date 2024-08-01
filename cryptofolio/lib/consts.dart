@@ -1,0 +1,2 @@
+final String CRYPRO_RANK_APIKEY =
+    'b0b05877c76b2ae1ae25a401a06fa4c506e7ca035b53ba487a1c6ec281d5';
